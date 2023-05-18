@@ -1,17 +1,10 @@
 # Projeto e Administração de Banco de Dados
 
-Nome: Anna Karoline Dantas de Oliveira
-Matrícula: 20210045738
-Email: anna.oliveira.700@ufrn.edu.br
 
-Nome: Isadora Luana Maria Gomes de Azevedo
-Matrícula: 20210083800
-Email: isadora.azevedo.700@ufrn.edu.br
-
-Nome: Israel Costa e Silva
-Matrícula: 20210051314
-Email: israel.silva.117@ufrn.edu.br
-
-Nome: Jonatas Camara dos Santos
-Matrícula: 20210070472
-Email: jonatas.camara.705@ufrn.edu.br
+| Nome | Matricula | Email |
+|------|---------|--------|
+| Anna Karoline Dantas de Oliveira | 20210045738 | anna.oliveira.700@ufrn.edu.br |
+| Isadora Luana Maria Gomes de Azevedo | 20210083800 | isadora.azevedo.700@ufrn.edu.br |
+| Israel Costa e Silva | 20210051314 | israel.silva.117@ufrn.edu.br |
+| Jonatas Camara dos Santos | 20210070472 | jonatas.camara.705@ufrn.edu.br |
+|||||
