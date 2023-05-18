@@ -7,3 +7,4 @@
 | Isadora Luana Maria Gomes de Azevedo | 20210083800 | isadora.azevedo.700@ufrn.edu.br |
 | Israel Costa e Silva | 20210051314 | israel.silva.117@ufrn.edu.br |
 | Jonatas Camara dos Santos | 20210070472 | jonatas.camara.705@ufrn.edu.br |
+| Vinícius Victor de Lima | 20210083784 |  vinicius.lima.114@ufrn.edu.br |
