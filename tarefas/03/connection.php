@@ -5,6 +5,7 @@ $password = '';
 
 $conn = odbc_connect($dsn, $user, $password);
 
+
 if ($conn) {
   echo 'Conexão estabelecida com sucesso!';
   // Faça suas operações no banco de dados aqui
